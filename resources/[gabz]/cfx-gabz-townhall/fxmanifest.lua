@@ -14,7 +14,7 @@ dependencies {
 }
 
 server_scripts {
-    'version_check.lua',
+
 }
 
 escrow_ignore {
